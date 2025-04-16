@@ -1,0 +1,22 @@
+
+Niyaz,2003,01787617564,nk,nk,Fair,None
+Jamil,2002,01754698712,jm,jm,fair,Facial(tk2500);Manicure(tk1500);Hairspa(tk500)|4500
+,,,e,e,,
+Mahdi,2000,01712365478,mh,mh,Tan
+Rafi,2003,019123654788,rafi,rrrr,Fair,None
+Abu Hasan,2000,164148789132,abu,abu,Dark,Manicure(tk350);Facial(tk500);Haircut(tk300)|1150
+Rahi,2001,012365478965,r,r,Tan
+Rahi,2001,1644748465413,rahi,rahi,Brown,None
+Salman,2002,10245789544,sal,sal,Tan,Hairspa(tk500);Pedicure(tk1700)|2200
+Girl,2000,01745698712,g,g,Brown,None
+Saiful,2003,01925364587,si,si,Tan,None
+Akib,2005,01642536418,aaa,aaa,Tan,Moisturizing Facial
+Tom,2025,018523645798,tom,tom,Dark,Normal Clean
+Barbie,2003,01755666666,bb,bb,Fair,None
+Yousuf Nazib,2001,01789562314,ysf,ysf,Olive,Facial(tk2500);Manicure(tk1500)|4000
+Islam,2000,012436547897,islam,uddin,Brown
+Archi,1999,019556624,archi,archi,Fair,None
+Shahriar,2001,01725896314,virus,virus,Olive,Deep Clean
+Eshrath,2002,01752648752,eee,eee,Fair,Pedicure(tk1700);Manicure(tk1500)|3200
+Toufik,2001,01925361458,tk,tk,Brown,Facial(tk2500);Hairspa(tk500)|3000
+Guest,1000,11111111111,123,123,Dark,Hairspa(tk500)|500

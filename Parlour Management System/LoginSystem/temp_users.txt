@@ -1,0 +1,5 @@
+
+ahmed,ahmed
+niyaz,2004,01787617564,nk,nk,Medium,None
+Jamil,2002,0172954444,jm,jk,Brown
+Rahi,2001,017125896454,rr,rr,Fair
