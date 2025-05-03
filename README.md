@@ -1,4 +1,4 @@
-# 💅 Parlor Management System
+# Parlor Management System
 
 A **Java Swing-based desktop application** for managing customer data and services in a parlor environment.
 The system includes user registration, login, treatment suggestions, admin functionalities, and a modern dark-themed interface.
