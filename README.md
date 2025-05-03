@@ -45,8 +45,7 @@ The system includes user registration, login, treatment suggestions, admin funct
 ## 📁 Project Structure
 ParlorManagementSystem/ ├── images/ # All icons, logos, and treatment images ├── users.txt # User account and profile data ├── admins.txt # Admin credentials 
 ├── customers.txt # Customer treatment history ├── StartPage.java # Entry point with Login/Register ├── RegisterPage.java # User registration form 
-├── LoginPage.java # User/Admin login form ├── UserDashboard.java # User profile and service access ├── AdminWindow.java # Admin control panel ├── AddCustomerForm.java
-# Form for adding customers ├── TreatmentSuggestion.java # Skin tone-based suggestion logic └── Utils.java # Helper functions (file read/write, etc.)
+├── LoginPage.java # User/Admin login form ├── UserDashboard.java # User profile and service access ├── AdminWindow.java # Admin control panel ├── AddCustomerForm.java # Form for adding customers ├── TreatmentSuggestion.java # Skin tone-based suggestion logic └── Utils.java # Helper functions (file read/write, etc.)
 ---
 
 ## 📄 Data Format
@@ -89,5 +88,4 @@ Email: ahmadkhanniyaz@gmail.com
 
 ---
 📜 License
-This project is for educational use. Feel free to fork and enhance!
-© 2025 theniyazkhan
+All Right Reserved © 2025 theniyazkhan
