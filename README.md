@@ -68,7 +68,7 @@ ParlorManagementSystem/ ├── images/ # All icons, logos, and treatment imag
 Language: Java
 GUI: Java Swing
 Data Storage: Plain text files
-Design: Custom dark mode + pastel girlish UI
+Design: Custom dark mode 
 Tools: ApacheNetbeans
 ---
 🌱 Future Enhancements
